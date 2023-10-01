@@ -1,8 +1,5 @@
 # CO2 Graph Project
 
-Pull down project.
-`git clone git@github.com:maxdub/co2-emissions.git`
-
 Install Dependancies.
 `npm install`
 
